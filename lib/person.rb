@@ -1,6 +1,7 @@
 class Person
   
-  def initialize()
+  def initialize(attributes_hash)
+    
   end 
   
   
